@@ -43,7 +43,7 @@ header .logo {
  /*filme princiapl*/
  .filme-principal {
    font-size: 16px;
-   background:url('/assets/img/supernatural-capa.jpg');
+   background:url('../img/supernatural-capa.jpg');
    background-size: cover;
    height: 500px;
    background-size: cover;
